@@ -1,0 +1,1 @@
+# sefaria-svelte-plugin
